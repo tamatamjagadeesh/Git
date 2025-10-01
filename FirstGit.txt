@@ -6,3 +6,5 @@ This is next thing to commit
 May be I need do more Hard Work
 Just Updating.
 Fine now take about tagging.
+
+Checking wheather changest saving to branch or not
